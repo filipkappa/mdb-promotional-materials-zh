@@ -3,6 +3,8 @@
 # Material Design for Bootstrap PRO
 
 MDB PRO is a UI Kit that includes **thousands of components**, templates, plugins, and integrations that will help you get the most out of your workflow.
+
+MDB 5 was the first UI Kit that was ever made for Bootstrap 5. Currently it's the most rich & developed collection of front-end tools in the world.
   
 Stop wasting time and make your workflow more efficient with predesigned elements.  
   
@@ -30,7 +32,13 @@ Start using powerful tools trusted by **2,000,000+** developers & organizations:
 Exlore the components demo **[here](https://mdbootstrap.com/docs/standard/pro/demo/)**
 
 ---
-## Product Tiers & Features
+## Key features:
+
+  - **Lifetime usage of components**
+  - **Latest Bootstrap 5** (based on plain JavaScript, but also works with jQuery)
+  - **Material Design 2.0** - latest guidelines introduced in 2020, a guarantee of intuitiveness & accessibility
+---
+## Product Tiers & More Features
 ![Bootstrap 5 UI Kit](https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/pro/_main/assets/mdb5-pro.jpg)
 | FREE                                                                                                             | ESSENTIAL                                                                                                                | ADVANCED                                                                                                                  | BUNDLE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -428,3 +436,39 @@ Explore **selected templates** below:
 
 ---
 ![Ecommerce Page](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content-gh/en/_mdb5/standard/web/docs/templates/ecommerce/assets/product.jpg)
+
+---
+
+![Premium Support](https://mdbootstrap.com/img/Marketing/campaigns/thinkphp/support.jpg)
+## Premium Support
+
+In order to provide you with the best possible experience & speed up your work, your purchase comes with Premium Support:
+
+- Premium badge on the support forum
+- Professional answer guarantee
+- Unlimited tickets
+- Help directly on your code
+- Issue status updates
+- Issues usually resolved within 1 workday
+---
+![Git access](https://mdbootstrap.com/img/Marketing/campaigns/thinkphp/git-access.jpg)
+## Git repositories & npm access
+
+Git makes it easier to track changes, update & collaborate on your project. Thanks to Git access included in your purchase you'll get:
+- Access to a shared repository
+-  Access to source code
+- NPM installation option
+- Team collaboration options
+- MDB CLI access & features
+---
+![Unlimited updates](https://mdbootstrap.com/img/Marketing/campaigns/thinkphp/updates.jpg)
+## Unlimited updates
+
+Frequent updates and continuous product improvement is our priority. We strive to remain the leading front-end technology and uphold the highest standards.
+- Update every 2 weeks
+- Detailed changelog
+- Concern for backward compatibility
+- User-friendly migration instructions
+- Unlimited downloads
+
+
