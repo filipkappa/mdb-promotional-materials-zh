@@ -69,7 +69,7 @@ Team packages contain everything from the **ADVANCED** tier but for more than  1
 
 -------
 
-![Premium Components](https://mdbootstrap.com/img/Marketing/campaigns/thinkphp/premium-components.jpg)
+![Premium Components](https://mdbootstrap.com/img/Marketing/campaigns/thinkphp/components-overview.png)
 ## Premium Components
 
 All components are drafted by **professional designers** in accordance with the latest **Material Design 2.0** guidelines - that’s a guarantee that your design will be **intuitive & clear**.
